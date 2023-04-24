@@ -1,0 +1,5 @@
+c:\users\yessid\documents\visual studio 2012\Projects\pregunta7\pregunta7\bin\pregunta7.dll
+c:\users\yessid\documents\visual studio 2012\Projects\pregunta7\pregunta7\bin\pregunta7.pdb
+c:\users\yessid\documents\visual studio 2012\Projects\pregunta7\pregunta7\obj\Debug\pregunta7.csprojResolveAssemblyReference.cache
+c:\users\yessid\documents\visual studio 2012\Projects\pregunta7\pregunta7\obj\Debug\pregunta7.dll
+c:\users\yessid\documents\visual studio 2012\Projects\pregunta7\pregunta7\obj\Debug\pregunta7.pdb
